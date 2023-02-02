@@ -10,5 +10,3 @@ They are "Seed" projects in two senses of the word:
 * They are intended as starting points from which projects can be furether developed
 
 See README in each project directory for more details.
-
-## Installing
