@@ -17,4 +17,4 @@ You'll need to have the [DaisyDuino](https://github.com/electro-smith/DaisyWiki/
 
 ## Sensor Pin Connections
 
-<img src="accel-gyro-pinout.png" width="500">
+<img src="accel-gyro-pinout.png">
